@@ -2,7 +2,7 @@ package Main.Java.br.com.secao4;
 
 import java.util.Locale;
 
-public class Exercicio01 {
+public class Exercicio_de_aula_31 {
 
     public static void main(String[] args){
 
