@@ -2,7 +2,7 @@ package Main.Java.br.com.secao5;
 
 import java.util.Scanner;
 
-public class Em_aula_46_switch {
+public class Em_aula_46_switch_case {
 
     public static void main(String[] args) {
 
